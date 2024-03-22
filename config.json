@@ -17,15 +17,15 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "EMAIL": "cliffvincenttorrevillas@gmail.com",
+  "EMAIL": "",
   "BOTOWNER": "𝘾𝙇𝙄𝙁𝙁 𝙑𝙄𝙉𝘾𝙀𝙉𝙏",
-  "OWNERLINK": "https://www.facebook.com/swordigo.swordslush",
-  "PASSWORD": "pogicgena",
-  "OTPKEY": "secret",
+  "OWNERLINK": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
   "BOTNAME": "𝙔𝙖𝙯𝙠𝙮𝙗𝙤𝙩",
-  "PREFIX": "#",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "100053549552408",
+    "100080202774643",
     ""
   ],
   "DESIGN": {
