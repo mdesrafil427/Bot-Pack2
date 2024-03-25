@@ -1,10 +1,7 @@
 <p align="center"><a href="https://www.facebook.com/swordigo.swordslush" target="_blank" rel="noopener noreferrer">
 	<img src="https://i.postimg.cc/8kqWYsXs/Screenshot-20231122-171534-2.png" width="50" style="margin-right: 10px;"></a>
 </p>
-<a href="https://replit.com/@CliffvincentTor" style="color: green;">🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩.𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀</a>
-<h5 align="center">
-🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩.𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀
-</h5>
+<h5 align="center"> <a href="https://replit.com/@CliffvincentTor" style="color: green;">🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩.𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀</a> </h5>
 
 ## Introduction
 
